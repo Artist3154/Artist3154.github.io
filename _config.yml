@@ -98,8 +98,8 @@ rss: true
 # --- 评论设置 ---
 
 # 使用 gem 包安装主题的配置
-# theme: jekyll-theme-minimalism
-# remote_theme: showzeng/Minimalism
+theme: jekyll-theme-minimalism
+remote_theme: showzeng/Minimalism
 
 plugins:
   - rouge
